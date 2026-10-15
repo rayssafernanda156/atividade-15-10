@@ -1,0 +1,36 @@
+* body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.meio {
+    color: rgb(0, 0, 0);
+    background-color: rgb(226, 152, 109);
+    text-align: center;
+    padding: 400px;
+    border-radius: 40px;
+    max-width: 500px;
+}
+
+.h4 {
+    color: rgb(66, 15, 15);
+}
+
+h2 {
+color: rgb(66, 15, 15);
+text-align: center;
+}
+
+button {
+ width: 100px;
+  overflow: hidden;
+  display: inline-block;
+  padding: 14px 24px;
+  background: #cc461d;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  white-space: nowrap;
+}
+}
